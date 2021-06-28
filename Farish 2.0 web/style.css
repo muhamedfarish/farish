@@ -183,8 +183,8 @@ section{
   width: 45%;
 }
 .about .about-content .left img{
- height: 350px;
- width: 350px;
+ height: 200px;
+ width: 200px;
  object-fit: cover;
  border: 2px solid blue;
  border-radius: 8px;
@@ -325,8 +325,8 @@ footer{
        
   .about .about-content  img{
     margin: 0;
-    height: 350px;
-    width:350px;
+    height: 200px;
+    width:200px;
     left:900px;
     margin-bottom: 50px;
    border: 2px solid black;
